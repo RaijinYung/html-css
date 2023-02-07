@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+main {
+    background-color: aqua;
+    margin: auto;
+    min-width: 300px;
+    max-width: 1000px;
+    margin-bottom: 30px;
+    padding: 20px;
+     
+}
+
+main h1 {
+    text-align: center;
+}
+
+
+div.video-thumb {
+    /* background-color: black; */
+    columns: 2;
+    /* display: block; */
+    /* margin:  auto; */
+    margin-top: 50px;
+    padding: 0 300px;
+    max-width: 350px;
+    
+}
+
+..video-thumb > a > img {
+   display: block;
+}

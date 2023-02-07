@@ -1,0 +1,11 @@
+@font-face {
+    font-family: megasta ;
+    src: url(./Megasta\ Signateria\ Serif.ttf) format(truetype);
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: megasta;
+    text-transform: uppercase;
+}

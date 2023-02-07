@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 255, 255, 0.384)
+}
+
+header {
+    background-color: rgb(97, 95, 92);
+    padding-left: 100px;
+    margin: auto;
+    font-size: 20px;
+
+}
+
+nav > a {
+    text-decoration: none;
+    margin-right: 15px;
+    color: rgb(93, 135, 141);
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.596);
+}
+
+main {
+    background-color: white;
+    text-align: justify;
+    margin: 50px 100px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.artigo-autor {
+    color: rgba(136, 133, 133, 0.603);
+    font-weight: bold
+}
+
+main > section {
+    padding: 0 20;l
+}
+
+.noticias-futebol {
+    margin: 20px;
+    text-align:justify;
+}
+
+img {
+    width: 200px
+}
+
+.direita-imagem {
+    margin: 10px;
+    text-align: left;
+}
